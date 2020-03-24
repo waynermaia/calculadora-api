@@ -4724,9 +4724,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/Shop.csproj",
-      "projectName": "Shop",
-      "projectPath": "/Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/Shop.csproj",
+      "projectUniqueName": "/Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/calculadora-api.csproj",
+      "projectName": "calculadora-api",
+      "projectPath": "/Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/calculadora-api.csproj",
       "packagesPath": "/Users/waynermaia/.nuget/packages/",
       "outputPath": "/Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/obj/",
       "projectStyle": "PackageReference",

@@ -1,4 +1,4 @@
-namespace Shop
+namespace calculadora-api
 {
     public static class Settings
     {

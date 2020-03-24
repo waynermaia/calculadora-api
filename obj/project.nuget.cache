@@ -2,7 +2,7 @@
   "version": 2,
   "dgSpecHash": "NbW6ZDo3/tNTac3v5jQgP1c/0fiQHwqd5WxdOCkLQNHeuDxeDiHDiq6bgyNLZkG9xzlTyyVfk/CQkK0ay3Z4lg==",
   "success": true,
-  "projectFilePath": "/Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/Shop.csproj",
+  "projectFilePath": "/Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/calculadora-api.csproj",
   "expectedPackageFiles": [
     "/Users/waynermaia/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "/Users/waynermaia/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

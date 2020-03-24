@@ -1,8 +1,8 @@
 using System.Collections.Generic;
 using System.Linq;
-using Shop.Models;
+using calculadora-api.Models;
 
-namespace Shop.Repositories
+namespace calculadora-api.Repositories
 {
     public static class UserRepository
     {
