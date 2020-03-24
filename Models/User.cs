@@ -1,4 +1,4 @@
-namespace calculadora-api.Models
+namespace calculadora_api.Models
 {
     public class User
     {

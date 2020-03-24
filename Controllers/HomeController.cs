@@ -1,14 +1,14 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using calculadora-api.Models;
+using calculadora_api.Models;
 using System;
 using Microsoft.AspNetCore.Authorization;
 using System.Linq;
-using calculadora-api.Services;
-using calculadora-api.Repositories;
+using calculadora_api.Services;
+using calculadora_api.Repositories;
 
-namespace calculadora-api.Controllers
+namespace calculadora_api.Controllers
 {
     [Route("v1/account")]
     public class HomeController : Controller

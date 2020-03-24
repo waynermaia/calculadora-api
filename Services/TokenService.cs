@@ -2,10 +2,10 @@ using System;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using calculadora-api.Models;
+using calculadora_api.Models;
 using Microsoft.IdentityModel.Tokens;
 
-namespace calculadora-api.Services
+namespace calculadora_api.Services
 {
     public static class TokenService
     {

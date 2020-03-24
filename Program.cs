@@ -1,7 +1,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Hosting;
 
-namespace calculadora-api
+namespace calculadora_api
 {
     public class Program
     {

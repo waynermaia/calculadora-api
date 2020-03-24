@@ -14361,7 +14361,7 @@
     ],
     "CSharpLanguageVersion": 800
   },
-  "RootNamespace": "calculadora-api",
+  "RootNamespace": "calculadora_api",
   "Documents": [],
   "SerializationFormat": "0.2"
 }

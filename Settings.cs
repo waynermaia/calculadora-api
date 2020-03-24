@@ -1,4 +1,4 @@
-namespace calculadora-api
+namespace calculadora_api
 {
     public static class Settings
     {
