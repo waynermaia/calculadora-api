@@ -1,5 +1,5 @@
-C:/dev/Shop/bin/Debug/netcoreapp3.0/appsettings.Development.json
-C:/dev/Shop/bin/Debug/netcoreapp3.0/appsettings.json
+C:/dev/Shop/bin/Debug/netcoreapp3.0/calculadora-api.Development.json
+C:/dev/Shop/bin/Debug/netcoreapp3.0/calculadora-api.json
 C:/dev/Shop/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
 C:/dev/Shop/bin/Debug/netcoreapp3.0/Shop.exe
 C:/dev/Shop/bin/Debug/netcoreapp3.0/Shop.deps.json
@@ -25,8 +25,7 @@ C:/dev/Shop/obj/Debug/netcoreapp3.0/Shop.RazorTargetAssemblyInfo.cache
 C:/dev/Shop/obj/Debug/netcoreapp3.0/Shop.csproj.CopyComplete
 C:/dev/Shop/obj/Debug/netcoreapp3.0/Shop.dll
 C:/dev/Shop/obj/Debug/netcoreapp3.0/Shop.pdb
-/Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/bin/Debug/netcoreapp3.0/appsettings.Development.json
-/Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/bin/Debug/netcoreapp3.0/appsettings.json
+/Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/bin/Debug/netcoreapp3.0/calculadora-api.Development.json
 /Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/bin/Debug/netcoreapp3.0/Properties/launchSettings.json
 /Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/bin/Debug/netcoreapp3.0/Shop.deps.json
 /Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/bin/Debug/netcoreapp3.0/Shop.runtimeconfig.json
@@ -55,3 +54,4 @@ C:/dev/Shop/obj/Debug/netcoreapp3.0/Shop.pdb
 /Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/obj/Debug/netcoreapp3.0/Shop.dll
 /Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/obj/Debug/netcoreapp3.0/Shop.pdb
 /Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/obj/Debug/netcoreapp3.0/Shop.genruntimeconfig.cache
+/Users/waynermaia/Desktop/ProjetoCalculadora/calculadora-api/bin/Debug/netcoreapp3.0/calculdora-api.json
